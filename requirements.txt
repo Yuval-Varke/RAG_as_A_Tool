@@ -6,3 +6,6 @@ langchain-google-genai
 langgraph
 faiss-cpu
 python-dotenv
+langchain-embeddings
+langchain-core
+
